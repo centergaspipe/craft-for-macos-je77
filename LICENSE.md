@@ -1,4 +1,4 @@
-
+Enhance Craft for macOS with Craft for macOS professional Plugin: voice notes & offline access, the #1 plugin. Includes voice notes and offline access for a smoother experience.
 
 
 
